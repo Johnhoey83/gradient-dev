@@ -1,6 +1,3 @@
-# gradient-dev
-Gradient and box shadow development using Angular 6 cli
-
 # Css3gen
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
@@ -12,4 +9,3 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Then navigate to page 'Gradient' and you will see the gradient creator
 
 Note* - Box shadow page in development
-
